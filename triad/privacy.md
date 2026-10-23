@@ -5,7 +5,7 @@ layout: default
 
 # Triad – Privacy Policy
 
-**Last updated: 22 October 2026**
+**Last updated: 23 October 2026**
 
 Triad ("the app") is an Android app for exploring chords, progressions and songs, published by Sylvan Verdant Studio ("we", "us"). This policy explains what happens to your data when you use it.
 
@@ -17,12 +17,13 @@ Your songs, progressions, folders, settings and purchase status are stored local
 
 ## Optional Google Drive backup
 
-If you turn on cloud backup in Settings, Triad asks Google for permission to use a private, hidden app-data folder in your own Google Drive (the `drive.appdata` permission). Triad then uploads and downloads a single backup file (`triad_backup.json`) containing your songs and progressions.
+If you turn on cloud backup in Settings, Triad asks Google for permission to use a private, hidden app-data folder in your own Google Drive (the `drive.appdata` permission). Triad then uploads and downloads a backup file (`triad_backup.json`) containing your songs, progressions and the songs and progressions you deleted in the last 30 days (the trash), plus dated copies of it (`triad_snapshot_<time>.json`: the 5 newest and one for each of the last 7 days) so an earlier state can be restored. Older copies are deleted by the app.
 
 - Triad cannot see, read or change any other file in your Drive.
 - The backup goes directly between your device and Google. It never passes through any server of ours.
 - Triad stores the Google account you picked on your device so that it can reconnect later.
 - Google processes this data under [Google's Privacy Policy](https://policies.google.com/privacy).
+- Deleting the cloud backup in the app deletes the dated copies too.
 - You can turn backup off at any time in the app. You can delete the backup data, or revoke Triad's access, in your Google Account settings under *Data & privacy → Third-party apps and services*.
 
 Triad's use of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
