@@ -12,6 +12,7 @@ layout: default
 Explore chords, progressions and songs.
 
 - [Privacy policy](triad/privacy)
+- [Terms of use](triad/terms)
 
 ## Contact
 
