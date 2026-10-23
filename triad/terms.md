@@ -7,7 +7,7 @@ layout: default
 
 **Last updated: 23 October 2026**
 
-Triad ("the app") is an Android app for exploring chords, progressions and songs, published by Sylvan Verdant Studio ("we", "us"). These terms apply when you download or use it. If you do not agree with them, please do not use the app. Nothing in these terms takes away the rights consumer law gives you where you live.
+Triad ("the app") is an Android app for exploring chords, progressions and songs. It is developed and published by an individual developer under the name Sylvan Verdant Studio ("we", "us"). These terms apply when you download or use it. If you do not agree with them, please do not use the app. Nothing in these terms takes away the rights consumer law gives you where you live.
 
 ## 1. Your licence to use Triad
 
