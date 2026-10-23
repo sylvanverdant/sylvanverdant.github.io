@@ -57,7 +57,7 @@ If these terms change, we will update the date above and publish the new version
 
 ## 9. If a part does not apply
 
-If a court finds part of these terms invalid, the rest still applies.
+If any part of these terms turns out not to apply, the rest still does.
 
 ## 10. Contact
 
