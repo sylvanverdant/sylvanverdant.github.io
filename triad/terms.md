@@ -11,7 +11,7 @@ Triad ("the app") is an Android app for exploring chords, progressions and songs
 
 ## 1. Your licence to use Triad
 
-We give you a personal, non-exclusive, non-transferable licence to use Triad on Android devices you own or control, as distributed through Google Play. You may not copy, sell or redistribute the app, take it apart to get at its code, sounds or amp models, or get around the purchase that unlocks Triad Studio.
+We give you a personal, non-exclusive, non-transferable licence to use Triad on Android devices you own or control, as distributed through Google Play. You may not copy, sell or redistribute the app, take it apart to get at its code, sounds or amp models (except where the law allows it), or get around the purchase that unlocks Triad Studio.
 
 The app contains sound samples and other material from third parties under their own licences; they are listed with their licences in Settings → About. The amp models (Neural Amp Modeler captures) were made for Triad and may only be used inside the app.
 
@@ -31,9 +31,9 @@ We may update, change or remove features over time, for example to fix problems,
 
 ## 4. Purchases, withdrawal and refunds
 
-Purchases are made through Google Play and handled entirely by Google; we never receive your card or payment details. Prices are shown in the app and in Google Play, including any tax Google adds.
+Purchases are made through Google Play and handled entirely by Google, under Google Play's own terms; we never receive your card or payment details. Prices are shown in the app and in Google Play, including any tax Google adds.
 
-Triad Studio is digital content that is unlocked as soon as you buy it. If you live in the European Union, your right to withdraw from the purchase within 14 days ends when the content is unlocked, provided you agreed to immediate delivery and acknowledged that you lose that right; Google Play asks for this at checkout.
+Triad Studio is digital content that is unlocked as soon as you buy it. If you live in the European Union, the 14-day right of withdrawal does not apply once the content has been unlocked, provided you agreed to immediate delivery and acknowledged that you lose that right when you bought it, as Google Play's terms describe.
 
 Refunds are handled by Google Play under the [Google Play refund policy](https://support.google.com/googleplay/answer/2479637).
 
@@ -53,7 +53,7 @@ To the extent the law allows, we are not liable for indirect or consequential lo
 
 ## 8. Changes to these terms
 
-If these terms change, we will update the date above and publish the new version at this address. Material changes will also be noted in the app's release notes. Changes never apply to a purchase made before them in a way that takes away what you paid for.
+If these terms change, we will update the date above and publish the new version at this address. Material changes will also be noted in the app's release notes.
 
 ## 9. Contact
 
