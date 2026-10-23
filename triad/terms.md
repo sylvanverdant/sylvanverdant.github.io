@@ -27,7 +27,7 @@ The free version lets you explore scales, chords and progressions, build songs, 
 
 **Triad Studio** is an optional one-time purchase, with no subscription. It unlocks unlimited saved songs, whole-song MIDI and MusicXML export, full tablature and score PDFs, stem export (one audio file per track) and automatic backup to your own Google Drive with dated copies from the last 7 days. The purchase belongs to the Google account you bought it with and can be restored on your other devices with Restore Purchases.
 
-We may improve or change features over time. We will not take away a Studio feature you paid for without a reason we must follow (for example a change in law or in Google Play's rules); if that ever happens, we will offer a fair alternative or a refund.
+We may update, change or remove features over time, for example to fix problems, to follow a change in the law or in Google Play's rules, or to improve the app. If a change takes away part of Triad Studio, you keep the rights consumer law gives you.
 
 ## 4. Purchases, withdrawal and refunds
 
