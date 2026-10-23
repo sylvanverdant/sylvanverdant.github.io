@@ -1,2 +1,6 @@
 title: Sylvan Verdant Studio
 theme: minima
+# the menu lists only these pages (the home page is the title on the left)
+header_pages:
+  - triad/privacy.md
+  - triad/terms.md
