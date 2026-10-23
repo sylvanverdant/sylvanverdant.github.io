@@ -9,7 +9,7 @@ layout: default
 
 Triad ("the app") is an Android app for exploring chords, progressions and songs. It is developed and published by an individual developer under the name Sylvan Verdant Studio ("we", "us"). This policy explains what happens to your data when you use it.
 
-**Short version:** we do not collect your data. We have no servers, no accounts, no analytics, no advertising and no tracking. Your songs stay on your device unless you choose to back them up to your own Google Drive.
+**Short version:** we do not collect your data in the app. We have no servers, no accounts, no analytics, no advertising and no tracking. Your songs stay on your device unless you choose to back them up to your own Google Drive.
 
 ## What the app stores on your device
 
@@ -30,7 +30,15 @@ Triad's use of information received from Google APIs adheres to the [Google API 
 
 ## Purchases
 
-Triad offers an optional one-time purchase ("Triad Studio Lifetime") through Google Play Billing. Payment is handled entirely by Google Play; we never receive your card or payment details. The app only checks with Google Play whether the purchase has been made, so it can unlock its features. See [Google Play's terms and privacy policy](https://policies.google.com/privacy).
+Triad offers an optional one-time purchase ("Triad Studio") through Google Play Billing. Payment is handled entirely by Google Play; we never receive your card or payment details. The app only checks with Google Play whether the purchase has been made, so it can unlock its features. Google Play gives us an order record for each purchase (order number, date, product, price and country), which we use only to manage purchases and refunds. See [Google's Privacy Policy](https://policies.google.com/privacy).
+
+## App statistics from Google Play
+
+If you have allowed your phone to share usage and diagnostics data with Google, Google Play may show us anonymous, aggregated statistics about Triad (for example crash reports and how many devices run it). They do not identify you.
+
+## If you write to us
+
+If you email us, we receive your email address and what you write. We use them only to answer you and keep them no longer than needed for that.
 
 ## Sharing and exporting
 
@@ -53,7 +61,7 @@ Triad is a general-audience music tool and does not knowingly collect any person
 
 ## Your choices and rights
 
-Because we do not hold your data, there is nothing for us to access, correct or delete. Your data is on your device and, if you enabled backup, in your own Google Drive, where you control it. If you believe we hold information about you, contact us and we will respond.
+Because we do not hold your data, there is nothing for us to access, correct or delete, apart from any emails you sent us. Your data is on your device and, if you enabled backup, in your own Google Drive, where you control it. If you believe we hold information about you, contact us and we will respond. You also have the right to complain to a data protection authority, in Poland the President of the Personal Data Protection Office (UODO), or the one where you live.
 
 ## Changes to this policy
 

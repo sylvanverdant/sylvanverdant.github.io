@@ -25,7 +25,7 @@ If you write a song with a chat assistant and import it, what that assistant giv
 
 The free version lets you explore scales, chords and progressions, build songs, keep up to 3 saved songs, use your own tunings and scales, share audio recordings and chord-chart PDFs, and try every other export (the first 8 bars as MIDI, MusicXML or stems, and the first page of a tablature or score PDF).
 
-**Triad Studio** is an optional one-time purchase, with no subscription. It unlocks unlimited saved songs, whole-song MIDI and MusicXML export, full tablature and score PDFs, stem export (one audio file per track) and automatic backup to your own Google Drive with dated copies from the last 7 days. The purchase belongs to the Google account you bought it with and can be restored on your other devices with Restore Purchases.
+**Triad Studio** is an optional one-time purchase, with no subscription. It unlocks unlimited saved songs, whole-song MIDI and MusicXML export, full tablature and score PDFs, stem export (one audio file per track) and automatic backup to your own Google Drive with dated copies from the last 7 days. The purchase belongs to the Google account you bought it with and can be restored with Restore Purchases on your other devices signed in to that account.
 
 We may update, change or remove features over time, for example to fix problems, to follow a change in the law or in Google Play's rules, or to improve the app. If a change takes away part of Triad Studio, you keep the rights consumer law gives you.
 
@@ -55,7 +55,11 @@ To the extent the law allows, we are not liable for indirect or consequential lo
 
 If these terms change, we will update the date above and publish the new version at this address. Material changes will also be noted in the app's release notes.
 
-## 9. Contact
+## 9. If a part does not apply
+
+If a court finds part of these terms invalid, the rest still applies.
+
+## 10. Contact
 
 Sylvan Verdant Studio  
 sylvanverdanthq@gmail.com
