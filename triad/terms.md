@@ -35,7 +35,7 @@ Purchases are made through Google Play and handled entirely by Google; we never 
 
 Triad Studio is digital content that is unlocked as soon as you buy it. If you live in the European Union, your right to withdraw from the purchase within 14 days ends when the content is unlocked, provided you agreed to immediate delivery and acknowledged that you lose that right; Google Play asks for this at checkout.
 
-For a refund, use Google Play first ([Google Play refund policy](https://support.google.com/googleplay/answer/2479637); Google usually refunds within 48 hours of the purchase on request). After that, write to us at the address below and we will look at every request fairly. If Triad Studio does not work as described, you have the rights consumer law gives you, such as a repair, a refund or a price reduction.
+Refunds are handled by Google Play under the [Google Play refund policy](https://support.google.com/googleplay/answer/2479637).
 
 ## 5. Your data and backups
 
@@ -55,11 +55,7 @@ To the extent the law allows, we are not liable for indirect or consequential lo
 
 If these terms change, we will update the date above and publish the new version at this address. Material changes will also be noted in the app's release notes. Changes never apply to a purchase made before them in a way that takes away what you paid for.
 
-## 9. Law
-
-These terms are governed by Polish law. If you are a consumer living in another country of the European Union, you also keep the protection of the mandatory consumer law of your country, and you may bring a claim where you live.
-
-## 10. Contact
+## 9. Contact
 
 Sylvan Verdant Studio  
 sylvanverdanthq@gmail.com
