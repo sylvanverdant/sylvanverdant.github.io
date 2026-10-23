@@ -5,8 +5,6 @@ layout: default
 
 # Sylvan Verdant Studio
 
-Small, focused apps for Android.
-
 ## Apps
 
 ### Triad
