@@ -5,7 +5,7 @@ layout: default
 
 # Triad – Terms of Use
 
-**Last updated: 23 October 2026**
+**Last updated: 25 October 2026**
 
 Triad ("the app") is an Android app for exploring chords, progressions and songs. It is developed and published by an individual developer under the name Sylvan Verdant Studio ("we", "us"). These terms apply when you download or use it. If you do not agree with them, please do not use the app. Nothing in these terms takes away the rights consumer law gives you where you live.
 
@@ -25,7 +25,7 @@ If you write a song with a chat assistant and import it, what that assistant giv
 
 The free version lets you explore scales, chords and progressions, build songs, keep up to 3 saved songs, use your own tunings and scales, share audio recordings and chord-chart PDFs, and try every other export (the first 8 bars as MIDI, MusicXML or stems, and the first page of a tablature or score PDF).
 
-**Triad Studio** is an optional one-time purchase, with no subscription. It unlocks unlimited saved songs, whole-song MIDI and MusicXML export, full tablature and score PDFs, stem export (one audio file per track) and automatic backup to your own Google Drive with dated copies from the last 7 days. The purchase belongs to the Google account you bought it with and can be restored with Restore Purchases on your other devices signed in to that account.
+**Triad Studio** is an optional one-time purchase, with no subscription. It unlocks unlimited saved songs, whole-song MIDI and MusicXML export, full tablature and score PDFs, stem export (one audio file per track) and automatic backup to your own Google Drive with dated copies from the last 7 days. The purchase belongs to the Google account you bought it with and can be restored in the app on your other devices signed in to that account.
 
 We may update, change or remove features over time, for example to fix problems, to follow a change in the law or in Google Play's rules, or to improve the app. If a change takes away part of Triad Studio, you keep the rights consumer law gives you.
 
