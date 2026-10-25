@@ -5,7 +5,7 @@ layout: default
 
 # Triad – Privacy Policy
 
-**Last updated: 23 October 2026**
+**Last updated: 25 October 2026**
 
 Triad ("the app") is an Android app for exploring chords, progressions and songs. It is developed and published by an individual developer under the name Sylvan Verdant Studio ("we", "us"). This policy explains what happens to your data when you use it.
 
@@ -47,7 +47,7 @@ When you export a song as audio or text and share it, the file is handed to the 
 ## Permissions
 
 - **Internet** – used only for the optional Google Drive backup and for Google Play Billing.
-- **Notifications and foreground playback** – show the playback controls while a song plays and keep it playing with the screen off. Nothing is sent anywhere.
+- **Notifications and foreground playback** – show what is playing (the song's or progression's name) with Pause, Play and Stop in the notification and on the lock screen, and keep it playing with the screen off. Android may also show the name on devices you connect, such as a car or headphones. Nothing is sent to us.
 
 Triad does not request access to your contacts, location, camera, microphone, photos or files.
 
