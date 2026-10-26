@@ -30,7 +30,10 @@ Triad's use of information received from Google APIs adheres to the [Google API 
 
 ## Purchases
 
-Triad offers an optional one-time purchase ("Triad Studio") through Google Play Billing. Payment is handled entirely by Google Play; we never receive your card or payment details. The app only checks with Google Play whether the purchase has been made, so it can unlock its features. Google Play gives us an order record for each purchase (order number, date, product, price and country), which we use only to manage purchases and refunds. See [Google's Privacy Policy](https://policies.google.com/privacy).
+Triad offers an optional one-time purchase ("Triad Studio"). Every financial transaction is processed entirely by Google Play Billing (Google Ireland Limited / Google LLC) under [Google's Privacy Policy](https://policies.google.com/privacy).
+
+- The app does not collect your card or payment details or your purchase history, and does not keep them on any server. It only asks Google Play whether Triad Studio has been bought, and remembers on your device that it is unlocked.
+- Under the Google Play terms, we see in the Google Play Console only aggregated sales reports and the record of each order (order number, date, product, price and country), and use them only to handle complaints and refunds.
 
 ## App statistics from Google Play
 
