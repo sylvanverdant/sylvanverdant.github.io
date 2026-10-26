@@ -5,7 +5,7 @@ layout: default
 
 # Triad – Privacy Policy
 
-**Last updated: 25 October 2026**
+**Last updated: 26 October 2026**
 
 Triad ("the app") is an Android app for exploring chords, progressions and songs. It is developed and published by an individual developer under the name Sylvan Verdant Studio ("we", "us"). This policy explains what happens to your data when you use it.
 
@@ -17,10 +17,10 @@ Your songs, progressions, folders, settings and purchase status are stored local
 
 ## Optional Google Drive backup
 
-If you turn on cloud backup in Settings, Triad asks Google for permission to use a private, hidden app-data folder in your own Google Drive (the `drive.appdata` permission). Triad then uploads and downloads a backup file (`triad_backup.json`) containing your songs, progressions and the songs and progressions you deleted in the last 30 days (the trash), plus dated copies of it (`triad_snapshot_<time>.json`: the 5 newest and one for each of the last 7 days) so an earlier state can be restored. Older copies are deleted by the app.
+If you turn on cloud backup in Settings, Triad asks Google for permission to use a private, hidden app-data folder in your own Google Drive (the `drive.appdata` permission). Triad then uploads and downloads a backup file (`triad_backup.json`) containing your songs, progressions, melodies and drum patterns, folders, custom tunings and scales, and the songs and progressions you deleted in the last 30 days (the trash), plus dated copies of it (`triad_snapshot_<time>.json`: the 5 newest and one for each of the last 7 days) so an earlier state can be restored. Older copies are deleted by the app.
 
 - Triad cannot see, read or change any other file in your Drive.
-- The backup goes directly between your device and Google. It never passes through any server of ours.
+- The backup goes directly between your device and Google. It never passes through any server of ours, and we have no access to it: we cannot open, read or analyse your backup files.
 - Triad stores the Google account you picked on your device so that it can reconnect later.
 - Google processes this data under [Google's Privacy Policy](https://policies.google.com/privacy).
 - Deleting the cloud backup in the app deletes the dated copies too.
